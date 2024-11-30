@@ -6,7 +6,7 @@ const TourTable = ({ tour }) => {
     // title, price
     return (
         <div className='w-full'>
-            <div className="overflow-x-auto">
+            <div className="">
                 <table className="table">
                     {/* head */}
                     <thead>
