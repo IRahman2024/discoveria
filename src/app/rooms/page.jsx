@@ -18,7 +18,7 @@ const Rooms = () => {
         <>
         <div>
             <div className="border-2 border-black p-5 m-10 ">
-                <h1 className="bg-green-900 text-2xl p-2 font-bold text-white pl-5 mb-4 rounded-lg  ">All Rooms</h1>
+                <h1 className="bg-green-900 text-2xl p-2 font-bold text-white pl-5 mb-4 rounded-lg">All Rooms</h1>
 
                 <div className="grid grid-cols-1 gap-5 m-7 p-5">
                     <p className="text-2xl" > <span className="font-bold">Total rooms  :</span>  {rooms.length}</p>

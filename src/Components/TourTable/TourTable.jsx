@@ -6,7 +6,7 @@ const TourTable = ({ tour }) => {
     // title, price
     return (
         <div className='w-full'>
-            <div className="">
+            <div className="overflow-x-auto">
                 <table className="table">
                     {/* head */}
                     <thead>
@@ -31,7 +31,7 @@ const TourTable = ({ tour }) => {
                                 <td >
                                     <button
                                         // onClick={() => handleDelete(data._id)}
-                                        className="btn btn-xs btn-error">Cancel</button>
+                                        className="btn btn-xs ">Cancel</button>
                                 </td>
                             </tr>)
                         }

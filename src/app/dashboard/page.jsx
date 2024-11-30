@@ -33,7 +33,7 @@ const Page = () => {
     return (
         <div className={`${styles.customBody} flex gap-x-4`}>
             <div
-                className={`${styles.sideNav} text-slate-800 bg-[#6767e4] rounded-r-2xl p-3 max-w-min`}>
+                className={` text-slate-800 bg-[#6767e4] rounded-r-2xl p-3 max-w-min`}>
                 <Link href="/"
                     className="btn btn-ghost text-3xl">Home</Link>
                 <button
