@@ -31,7 +31,7 @@ const TourTable = ({ tour }) => {
                                 <td >
                                     <button
                                         // onClick={() => handleDelete(data._id)}
-                                        className="btn btn-xs ">Cancel</button>
+                                        className="btn btn-xs btn-error">Cancel</button>
                                 </td>
                             </tr>)
                         }
