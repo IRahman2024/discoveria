@@ -1,0 +1,20 @@
+[
+    {
+        "image": "https://i.ibb.co.com/VHCny38/pexels-asadphoto-1268855.jpg",
+        "title": "Beautiful Beach",
+        "price": "$250 per person",
+        "description": "Enjoy a relaxing day at one of the most beautiful beaches in the world. Sun, sand, and waves await you!"
+    },
+    {
+        "image": "https://i.ibb.co.com/VHCny38/pexels-asadphoto-1268855.jpg",
+        "title": "Mountain Adventure",
+        "price": "$300 per person",
+        "description": "Explore the stunning mountain ranges with guided hikes, breathtaking views, and thrilling adventures."
+    },
+    {
+        "image": "https://i.ibb.co.com/VHCny38/pexels-asadphoto-1268855.jpg",
+        "title": "City Escape",
+        "price": "$150 per person",
+        "description": "Discover the hidden gems of the city with a fun and informative tour. Perfect for all ages!"
+    }
+]

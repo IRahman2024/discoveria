@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "name": "Deluxe King Room",
+      "description":
+        "A luxurious room with a king-size bed, modern amenities, and a stunning view of the city skyline.",
+      "pricePerNight": 120,
+      "features": ["Free WiFi", "Air Conditioning", "Room Service", "Smart TV"],
+      "capacity": 2,
+      "rating": 4.8
+    },
+    {
+      "id": 2,
+      "name": "Ocean View Suite",
+      "description":
+        "Spacious suite with panoramic ocean views, private balcony, and premium furnishings.",
+      "pricePerNight": 250,
+      "features": ["Ocean View", "Private Balcony", "Free Breakfast", "Mini Bar"],
+      "capacity": 4,
+      "rating": 4.9
+    },
+    {
+      "id": 3,
+      "name": "Family Room",
+      "description":
+        "A perfect choice for families, equipped with two queen-size beds and a cozy seating area.",
+      "pricePerNight": 180,
+      "features": [
+        "Free WiFi",
+        "Children’s Play Area",
+        "Kitchenette",
+        "Complimentary Snacks"
+      ],
+      "capacity": 4,
+      "rating": 4.7
+    },
+    {
+      "id": 4,
+      "name": "Honeymoon Suite",
+      "description":
+        "Romantic suite with a private Jacuzzi, rose petal decorations, and complimentary champagne.",
+      "pricePerNight": 300,
+      "features": [
+        "Private Jacuzzi",
+        "Romantic Decor",
+        "Free Breakfast",
+        "Soundproof"
+      ],
+      "capacity": 2,
+      "rating": 5.0
+    },
+    {
+      "id": 5,
+      "name": "Standard Single Room",
+      "description":
+        "An affordable and comfortable option for solo travelers, with basic amenities and a clean design.",
+      "pricePerNight": 75,
+      "features": ["Free WiFi", "Air Conditioning", "Flat Screen TV", "Desk"],
+      "capacity": 1,
+      "rating": 4.3
+    }
+  ]
